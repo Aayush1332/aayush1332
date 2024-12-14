@@ -1,16 +1,13 @@
-### Hi there 👋, my name is Aayush
-#### 👋 Hi, I'm Aayush! 💻 A passionate Python developer exploring Django and backend development. 📚 Currently enhancing my skills with exciting projects like resume screening, blog websites, and human resource management tools. 🎯 Focused on learning, building, and sharing.
+<h1 align="center">Hi, I'm Aayush Bhandari</h1>
+<h3 align="center">👋 Hi, I'm Aayush! 💻 A passionate Python developer exploring Django and backend development. 📚 Currently enhancing my skills with exciting projects like resume screening, blog websites, and human resource management tools. 🎯 Focused on learning, building, and sharing.</h3>
 
-- 🌱 I’m currently learning to enhance my skills with exciting projects like resume screening, blogging websites, and human resource management tools 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-bhandari-40aa09287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-bhandari-40aa09287/" height="30" width="40" /></a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush1332&show_icons=true&locale=en&layout=compact" alt="aayush1332" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aayush1332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aayush-bhandari-40aa09287//)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush1332&show_icons=true&locale=en" alt="aayush1332" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1332)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush1332&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Aayush1332)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Aayush1332)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush1332&" alt="aayush1332" /></p>
